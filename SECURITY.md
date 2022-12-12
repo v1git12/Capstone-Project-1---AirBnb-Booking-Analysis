@@ -5,7 +5,7 @@
 latest version as of 12/12/22
 
 | library | Version | Supported         |
-| ------- | ------------------ |
+|-------------| ------- | ------------------ |
 |numpy|1.21.6  | :white_check_mark: |
 |pandas|1.3.5   | :white_check_mark: |
 |matplotlib|3.2.2   | :white_check_mark: |
